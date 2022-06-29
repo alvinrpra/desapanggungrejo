@@ -1,4 +1,4 @@
-# [Desaku - Desa Pagar Besi](https://desapagarbesi.net)
+# [Desaku - Desa Panggungrejo](https://desapagarbesi.net)
 
 [Desaku](https://desapagarbesi.net) merupakan sebuah web profil sederhana yang dibuat untuk Desa Pagar Besi, Kec. Merigi Sakti, Kab. Bengkulu Tengah.
 
