@@ -41,7 +41,7 @@
     box-sizing: border-box
 }
 
-html {
+php {
     font-family: sans-serif;
     line-height: 1.15;
     -webkit-text-size-adjust: 100%;
@@ -283,7 +283,7 @@ select {
 [type=reset],
 [type=submit],
 button,
-html [type=button] {
+php [type=button] {
     -webkit-appearance: button
 }
 
